@@ -20,7 +20,7 @@ class Project extends Component{
                         </CardText>
                         <CardActions border>
                             
-                            <a href="https://rafaelestradajr.github.io/Group-Project-2/"colored>Live Demo </a>
+                            <a href="https://https://rafaelestradajr.github.io/my-nasa-app/"colored>Live Demo </a>
                         </CardActions>
                                 <CardMenu style={{ color: "#fff" }}>
                                     <IconButton name="share" />
